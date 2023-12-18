@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b509922-c074-4374-ac36-c9115339b6a6" name="Changes" comment="Try to fix router">
+    <list default="true" id="4b509922-c074-4374-ac36-c9115339b6a6" name="Changes" comment="Change bg">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/eugen/WebstormProjects/testRPI&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/eugen/WebstormProjects/testDPI&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -81,6 +81,8 @@
       <workItem from="1702493665534" duration="13804000" />
       <workItem from="1702748082877" duration="322000" />
       <workItem from="1702748424583" duration="5000" />
+      <workItem from="1702748490617" duration="925000" />
+      <workItem from="1702883429427" duration="262000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1702408591821</created>
@@ -110,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702748373249</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Change bg">
+      <created>1702748791589</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702748791589</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +140,7 @@
     <MESSAGE value="1" />
     <MESSAGE value="add bootstrap" />
     <MESSAGE value="Try to fix router" />
-    <option name="LAST_COMMIT_MESSAGE" value="Try to fix router" />
+    <MESSAGE value="Change bg" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change bg" />
   </component>
 </project>
